@@ -1,5 +1,3 @@
-⚠️ This plugin doesn't work yet. It wil only work after this patch is applied: https://josm.openstreetmap.de/ticket/15464#comment:1 ⚠️
-
 Adds the `clacks_overhead=GNU Terry Pratchett` tag to all changesets you
 upload.
 
