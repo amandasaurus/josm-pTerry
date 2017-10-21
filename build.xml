@@ -22,6 +22,8 @@
                 <attribute name="Plugin-Description" value="GNU Terry Pratchett | A man is not dead while his name is still spoken." />
                 <attribute name="Plugin-Mainversion" value="${plugin.main.version}"/>
                 <attribute name="Plugin-Version" value="${version.entry.commit.revision}"/>
+                <attribute name="Plugin-Canloadatruntime" value="true"/>
+
             </manifest>
         </jar>
     </target>
