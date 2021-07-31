@@ -16,7 +16,7 @@
     <target name="dist" depends="compile,revision">
         <jar destfile="${plugin.jar}" basedir="${plugin.build.dir}" manifestencoding="UTF-8">
             <manifest>
-                <attribute name="Author" value="Rory McCann"/>
+                <attribute name="Author" value="Amanda McCann"/>
                 <attribute name="Plugin-Class" value="org.technomancy.openstreetmap.pterry.pTerryPlugin"/>
                 <attribute name="Plugin-Date" value="${version.entry.commit.date}"/>
                 <attribute name="Plugin-Description" value="GNU Terry Pratchett | A man is not dead while his name is still spoken." />
