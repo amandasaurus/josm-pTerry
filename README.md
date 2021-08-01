@@ -9,8 +9,8 @@ into your `~/.josm/plugins/` and restart JOSM. It requires a relatively new vers
 
 # More information
 
- * http://gnuterrypratchett.com/
- * https://www.theguardian.com/books/shortcuts/2015/mar/17/terry-pratchetts-name-lives-on-in-the-clacks-with-hidden-web-code
+ * [GNUTerryPratchett.com](http://gnuterrypratchett.com/)
+ * [“Terry Pratchett’s name lives on in ‘the clacks’ with hidden web code”, The Guardian, 17 March 2015](https://www.theguardian.com/books/shortcuts/2015/mar/17/terry-pratchetts-name-lives-on-in-the-clacks-with-hidden-web-code)
 
 
 Copyright 2017→2021 Amanda McCann <amanda@technomancy.org> GNU Affero GPL v3.0
