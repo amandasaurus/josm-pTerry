@@ -5,7 +5,7 @@ upload.
 
 To install, download the
 [pTerry.jar](https://github.com/amandasaurus/josm-pTerry/releases/download/v0.1.0/pTerry.jar)
-into your `~/.josm/plugins/` and restart JOSM. It requires a relatively new version of JOSM.
+into your `~/.local/share/JOSM/plugins/` and restart JOSM (on Linux).
 
 # More information
 
